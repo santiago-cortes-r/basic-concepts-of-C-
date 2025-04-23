@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\bin\Debug\net8.0\consolidation.exe
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\bin\Debug\net8.0\consolidation.deps.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\bin\Debug\net8.0\consolidation.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\bin\Debug\net8.0\consolidation.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\bin\Debug\net8.0\consolidation.pdb
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.sourcelink.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\refint\consolidation.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.pdb
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\consolidation.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\consolidation\consolidation\obj\Debug\net8.0\ref\consolidation.dll

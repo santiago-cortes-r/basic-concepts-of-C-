@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\bin\Release\net8.0\casino.exe
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\bin\Release\net8.0\casino.deps.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\bin\Release\net8.0\casino.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\bin\Release\net8.0\casino.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\bin\Release\net8.0\casino.pdb
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.sourcelink.json
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\refint\casino.dll
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.pdb
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\casino.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\programar\platzi\backend\Curso Básico de Programación con C#\casino\casino\obj\Release\net8.0\ref\casino.dll
